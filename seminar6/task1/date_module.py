@@ -32,10 +32,3 @@ def is_valid_date(date_str):
         return True
     except ValueError:
         return False
-
-if __name__ == "__main__":
-    date_str = input("Введите дату в формате DD.MM.YYYY: ")
-    if is_valid_date(date_str):
-        print("Дата является валидной.")
-    else:
-        print("Дата не является валидной.")
