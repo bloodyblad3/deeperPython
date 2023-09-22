@@ -5,7 +5,6 @@ def rename_files(directory, desired_name, num_digits, source_extension, target_e
         print(f"Директории '{directory}' не существует.")
         return
 
-    # Get a list of all files in the directory with the source_extension
     files = [f for f in os.listdir(directory) if f.endswith(source_extension)]
 
     if not files:
