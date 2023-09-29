@@ -1,0 +1,4347 @@
+[
+    {
+        "coefficients": [
+            284,
+            510,
+            328
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            450,
+            791,
+            811
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            218,
+            317,
+            279
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            529,
+            343,
+            235
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            254,
+            379,
+            313
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            517,
+            966,
+            487
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            831,
+            549,
+            542
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            165,
+            50,
+            460
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            206,
+            453,
+            345
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            230,
+            228,
+            395
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            839,
+            148,
+            464
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            16,
+            942,
+            139
+        ],
+        "roots": [
+            -0.14793007741493014,
+            -58.72706992258507
+        ]
+    },
+    {
+        "coefficients": [
+            380,
+            379,
+            918
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            171,
+            578,
+            373
+        ],
+        "roots": [
+            -0.8684678792141179,
+            -2.51164907985021
+        ]
+    },
+    {
+        "coefficients": [
+            813,
+            529,
+            357
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            806,
+            478,
+            192
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            546,
+            763,
+            204
+        ],
+        "roots": [
+            -0.36022068398122387,
+            -1.0372152134546735
+        ]
+    },
+    {
+        "coefficients": [
+            143,
+            597,
+            153
+        ],
+        "roots": [
+            -0.27430441629911445,
+            -3.90052075852606
+        ]
+    },
+    {
+        "coefficients": [
+            762,
+            954,
+            887
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            683,
+            878,
+            109
+        ],
+        "roots": [
+            -0.1392241992472332,
+            -1.1462809252037185
+        ]
+    },
+    {
+        "coefficients": [
+            579,
+            300,
+            944
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            861,
+            726,
+            273
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            964,
+            5,
+            929
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            533,
+            295,
+            457
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            116,
+            282,
+            423
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            209,
+            858,
+            557
+        ],
+        "roots": [
+            -0.8083548297645194,
+            -3.296908328130217
+        ]
+    },
+    {
+        "coefficients": [
+            344,
+            141,
+            183
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            198,
+            668,
+            166
+        ],
+        "roots": [
+            -0.2701322511283443,
+            -3.1036051226090295
+        ]
+    },
+    {
+        "coefficients": [
+            916,
+            872,
+            644
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            766,
+            542,
+            774
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            571,
+            361,
+            271
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            408,
+            839,
+            354
+        ],
+        "roots": [
+            -0.5928473763318207,
+            -1.4635251726877874
+        ]
+    },
+    {
+        "coefficients": [
+            321,
+            980,
+            664
+        ],
+        "roots": [
+            -1.0150067759379302,
+            -2.0379527256197023
+        ]
+    },
+    {
+        "coefficients": [
+            451,
+            842,
+            673
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            714,
+            485,
+            732
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            549,
+            296,
+            65
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            667,
+            45,
+            683
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            686,
+            164,
+            991
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            611,
+            941,
+            565
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            3,
+            986,
+            294
+        ],
+        "roots": [
+            -0.2984454452854379,
+            -328.36822122138125
+        ]
+    },
+    {
+        "coefficients": [
+            992,
+            863,
+            618
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            591,
+            421,
+            805
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            914,
+            944,
+            888
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            848,
+            675,
+            864
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            857,
+            893,
+            935
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            472,
+            370,
+            335
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            217,
+            757,
+            643
+        ],
+        "roots": [
+            -1.4627467344960687,
+            -2.0257325281767424
+        ]
+    },
+    {
+        "coefficients": [
+            171,
+            105,
+            727
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            581,
+            456,
+            469
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            492,
+            876,
+            615
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            383,
+            54,
+            307
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            605,
+            245,
+            809
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            579,
+            503,
+            790
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            244,
+            129,
+            335
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            751,
+            393,
+            445
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            705,
+            516,
+            247
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            79,
+            867,
+            685
+        ],
+        "roots": [
+            -0.8570033775576361,
+            -10.11768016674616
+        ]
+    },
+    {
+        "coefficients": [
+            604,
+            421,
+            579
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            156,
+            885,
+            241
+        ],
+        "roots": [
+            -0.28681717306099586,
+            -5.3862597500159275
+        ]
+    },
+    {
+        "coefficients": [
+            92,
+            313,
+            647
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            171,
+            169,
+            390
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            134,
+            225,
+            711
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            484,
+            255,
+            825
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            7,
+            748,
+            305
+        ],
+        "roots": [
+            -0.40932194004575095,
+            -106.4478209170971
+        ]
+    },
+    {
+        "coefficients": [
+            512,
+            419,
+            715
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            179,
+            474,
+            441
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            842,
+            891,
+            4
+        ],
+        "roots": [
+            -0.004508546947561161,
+            -1.0536862273992322
+        ]
+    },
+    {
+        "coefficients": [
+            124,
+            896,
+            628
+        ],
+        "roots": [
+            -0.7865002839012453,
+            -6.439306167711658
+        ]
+    },
+    {
+        "coefficients": [
+            175,
+            626,
+            480
+        ],
+        "roots": [
+            -1.1131970048293844,
+            -2.4639458523134725
+        ]
+    },
+    {
+        "coefficients": [
+            26,
+            709,
+            88
+        ],
+        "roots": [
+            -0.12468861568820645,
+            -27.144542153542563
+        ]
+    },
+    {
+        "coefficients": [
+            34,
+            820,
+            857
+        ],
+        "roots": [
+            -1.0948214060740629,
+            -23.022825652749468
+        ]
+    },
+    {
+        "coefficients": [
+            223,
+            458,
+            183
+        ],
+        "roots": [
+            -0.5432656946112013,
+            -1.510545964581624
+        ]
+    },
+    {
+        "coefficients": [
+            560,
+            325,
+            319
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            600,
+            773,
+            511
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            299,
+            677,
+            336
+        ],
+        "roots": [
+            -0.734714908417425,
+            -1.5294991384053174
+        ]
+    },
+    {
+        "coefficients": [
+            81,
+            212,
+            396
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            770,
+            866,
+            683
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            486,
+            868,
+            889
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            218,
+            316,
+            224
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            247,
+            741,
+            238
+        ],
+        "roots": [
+            -0.36578782982919694,
+            -2.634212170170803
+        ]
+    },
+    {
+        "coefficients": [
+            218,
+            64,
+            450
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            46,
+            785,
+            994
+        ],
+        "roots": [
+            -1.3774206826824806,
+            -15.687796708621867
+        ]
+    },
+    {
+        "coefficients": [
+            701,
+            714,
+            188
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            267,
+            390,
+            217
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            191,
+            633,
+            249
+        ],
+        "roots": [
+            -0.45614773100833045,
+            -2.85798839464612
+        ]
+    },
+    {
+        "coefficients": [
+            667,
+            900,
+            964
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            555,
+            821,
+            469
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            227,
+            539,
+            415
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            681,
+            857,
+            131
+        ],
+        "roots": [
+            -0.17805012612372326,
+            -1.0803933393682004
+        ]
+    },
+    {
+        "coefficients": [
+            524,
+            944,
+            442
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            202,
+            977,
+            945
+        ],
+        "roots": [
+            -1.3366336633663367,
+            -3.5
+        ]
+    },
+    {
+        "coefficients": [
+            509,
+            812,
+            48
+        ],
+        "roots": [
+            -0.06148287333788974,
+            -1.533801998960735
+        ]
+    },
+    {
+        "coefficients": [
+            864,
+            452,
+            603
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            149,
+            467,
+            553
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            302,
+            85,
+            21
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            927,
+            875,
+            347
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            606,
+            228,
+            784
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            616,
+            78,
+            49
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            761,
+            181,
+            860
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            931,
+            244,
+            34
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            743,
+            974,
+            898
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            336,
+            938,
+            926
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            68,
+            848,
+            409
+        ],
+        "roots": [
+            -0.5025646759926671,
+            -11.96802355930145
+        ]
+    },
+    {
+        "coefficients": [
+            771,
+            80,
+            546
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            972,
+            180,
+            842
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            204,
+            840,
+            84
+        ],
+        "roots": [
+            -0.10255421784518928,
+            -4.01509284097834
+        ]
+    },
+    {
+        "coefficients": [
+            424,
+            322,
+            795
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            365,
+            252,
+            346
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            116,
+            784,
+            351
+        ],
+        "roots": [
+            -0.4820916203103599,
+            -6.276529069344813
+        ]
+    },
+    {
+        "coefficients": [
+            438,
+            404,
+            456
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            295,
+            430,
+            596
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            739,
+            669,
+            192
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            785,
+            957,
+            735
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            348,
+            335,
+            225
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            117,
+            772,
+            579
+        ],
+        "roots": [
+            -0.8628280463732847,
+            -5.735462551917314
+        ]
+    },
+    {
+        "coefficients": [
+            900,
+            798,
+            618
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            874,
+            539,
+            109
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            548,
+            157,
+            809
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            406,
+            617,
+            259
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            822,
+            619,
+            394
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            964,
+            459,
+            589
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            407,
+            441,
+            721
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            47,
+            339,
+            627
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            654,
+            242,
+            880
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            767,
+            92,
+            964
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            680,
+            826,
+            466
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            267,
+            793,
+            210
+        ],
+        "roots": [
+            -0.2939000236928304,
+            -2.67613742949069
+        ]
+    },
+    {
+        "coefficients": [
+            754,
+            913,
+            1000
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            904,
+            722,
+            54
+        ],
+        "roots": [
+            -0.083527870070633,
+            -0.7151446963010484
+        ]
+    },
+    {
+        "coefficients": [
+            949,
+            510,
+            650
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            801,
+            741,
+            881
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            646,
+            714,
+            765
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            734,
+            212,
+            15
+        ],
+        "roots": [
+            -0.1239328387215628,
+            -0.16489549915309662
+        ]
+    },
+    {
+        "coefficients": [
+            810,
+            223,
+            689
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            211,
+            169,
+            665
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            4,
+            897,
+            727
+        ],
+        "roots": [
+            -0.8134299589660827,
+            -223.43657004103392
+        ]
+    },
+    {
+        "coefficients": [
+            133,
+            15,
+            821
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            686,
+            194,
+            663
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            582,
+            729,
+            920
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            697,
+            790,
+            574
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            202,
+            911,
+            161
+        ],
+        "roots": [
+            -0.18425688368308407,
+            -4.325644106415926
+        ]
+    },
+    {
+        "coefficients": [
+            105,
+            161,
+            969
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            764,
+            422,
+            870
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            200,
+            582,
+            605
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            674,
+            303,
+            894
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            349,
+            925,
+            74
+        ],
+        "roots": [
+            -0.08257249480833118,
+            -2.567857304618603
+        ]
+    },
+    {
+        "coefficients": [
+            484,
+            326,
+            668
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            360,
+            79,
+            976
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            339,
+            846,
+            858
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            279,
+            288,
+            961
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            54,
+            385,
+            425
+        ],
+        "roots": [
+            -1.3653752740333884,
+            -5.764254355596241
+        ]
+    },
+    {
+        "coefficients": [
+            702,
+            96,
+            620
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            97,
+            987,
+            644
+        ],
+        "roots": [
+            -0.7007401940143987,
+            -9.474517537944365
+        ]
+    },
+    {
+        "coefficients": [
+            333,
+            42,
+            66
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            52,
+            56,
+            219
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            577,
+            103,
+            886
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            963,
+            100,
+            167
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            948,
+            357,
+            444
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            327,
+            911,
+            240
+        ],
+        "roots": [
+            -0.2945992417432117,
+            -2.4913334799693265
+        ]
+    },
+    {
+        "coefficients": [
+            434,
+            596,
+            307
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            727,
+            205,
+            635
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            712,
+            544,
+            750
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            178,
+            463,
+            489
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            724,
+            456,
+            329
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            386,
+            259,
+            953
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            983,
+            442,
+            765
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            431,
+            242,
+            277
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            562,
+            935,
+            113
+        ],
+        "roots": [
+            -0.13120248026168016,
+            -1.5324985873539783
+        ]
+    },
+    {
+        "coefficients": [
+            826,
+            82,
+            53
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            5,
+            898,
+            312
+        ],
+        "roots": [
+            -0.34811349110628953,
+            -179.25188650889373
+        ]
+    },
+    {
+        "coefficients": [
+            921,
+            39,
+            158
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            431,
+            537,
+            572
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            512,
+            563,
+            308
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            765,
+            381,
+            891
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            125,
+            922,
+            8
+        ],
+        "roots": [
+            -0.00868702065181742,
+            -7.367312979348182
+        ]
+    },
+    {
+        "coefficients": [
+            318,
+            216,
+            806
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            202,
+            217,
+            584
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            469,
+            378,
+            885
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            695,
+            723,
+            370
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            891,
+            921,
+            724
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            713,
+            351,
+            314
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            597,
+            117,
+            415
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            607,
+            341,
+            908
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            20,
+            119,
+            328
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            93,
+            293,
+            388
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            468,
+            578,
+            374
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            172,
+            82,
+            304
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            483,
+            899,
+            916
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            95,
+            408,
+            215
+        ],
+        "roots": [
+            -0.615039069706378,
+            -3.6796977723988853
+        ]
+    },
+    {
+        "coefficients": [
+            609,
+            114,
+            580
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            476,
+            817,
+            199
+        ],
+        "roots": [
+            -0.29389860754085745,
+            -1.4224879470809912
+        ]
+    },
+    {
+        "coefficients": [
+            438,
+            430,
+            223
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            111,
+            49,
+            644
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            270,
+            33,
+            496
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            725,
+            421,
+            576
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            889,
+            351,
+            713
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            371,
+            197,
+            159
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            461,
+            282,
+            273
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            550,
+            843,
+            910
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            888,
+            968,
+            921
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            590,
+            430,
+            467
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            289,
+            411,
+            695
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            657,
+            903,
+            116
+        ],
+        "roots": [
+            -0.14342807194587764,
+            -1.2310011517984145
+        ]
+    },
+    {
+        "coefficients": [
+            611,
+            902,
+            512
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            438,
+            844,
+            372
+        ],
+        "roots": [
+            -0.6824721197759738,
+            -1.2444685194934326
+        ]
+    },
+    {
+        "coefficients": [
+            615,
+            689,
+            145
+        ],
+        "roots": [
+            -0.280860287749368,
+            -0.8394649155026646
+        ]
+    },
+    {
+        "coefficients": [
+            745,
+            553,
+            924
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            187,
+            128,
+            200
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            196,
+            906,
+            344
+        ],
+        "roots": [
+            -0.41737745230422146,
+            -4.205071527287616
+        ]
+    },
+    {
+        "coefficients": [
+            874,
+            989,
+            671
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            339,
+            738,
+            5
+        ],
+        "roots": [
+            -0.006796284873250039,
+            -2.170194865569228
+        ]
+    },
+    {
+        "coefficients": [
+            736,
+            718,
+            575
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            633,
+            524,
+            749
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            765,
+            609,
+            900
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            506,
+            260,
+            286
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            148,
+            749,
+            393
+        ],
+        "roots": [
+            -0.5945474275827839,
+            -4.466263383228027
+        ]
+    },
+    {
+        "coefficients": [
+            514,
+            686,
+            559
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            614,
+            10,
+            358
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            351,
+            161,
+            277
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            276,
+            530,
+            955
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            679,
+            248,
+            839
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            715,
+            236,
+            430
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            178,
+            96,
+            209
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            925,
+            8,
+            150
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            143,
+            406,
+            88
+        ],
+        "roots": [
+            -0.2364388590427531,
+            -2.6027219801180856
+        ]
+    },
+    {
+        "coefficients": [
+            289,
+            1000,
+            615
+        ],
+        "roots": [
+            -0.7999255982139059,
+            -2.660282014242841
+        ]
+    },
+    {
+        "coefficients": [
+            360,
+            200,
+            586
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            760,
+            237,
+            939
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            418,
+            189,
+            152
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            461,
+            160,
+            962
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            627,
+            661,
+            195
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            690,
+            370,
+            205
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            743,
+            120,
+            161
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            32,
+            222,
+            148
+        ],
+        "roots": [
+            -0.7471279537746245,
+            -6.1903720462253755
+        ]
+    },
+    {
+        "coefficients": [
+            988,
+            131,
+            194
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            895,
+            589,
+            977
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            6,
+            381,
+            892
+        ],
+        "roots": [
+            -2.434546168729824,
+            -61.06545383127017
+        ]
+    },
+    {
+        "coefficients": [
+            645,
+            435,
+            99
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            227,
+            645,
+            127
+        ],
+        "roots": [
+            -0.21284272898069548,
+            -2.628566962649261
+        ]
+    },
+    {
+        "coefficients": [
+            188,
+            461,
+            676
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            166,
+            454,
+            438
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            161,
+            867,
+            800
+        ],
+        "roots": [
+            -1.182293953716344,
+            -4.202799213985519
+        ]
+    },
+    {
+        "coefficients": [
+            271,
+            280,
+            397
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            616,
+            746,
+            128
+        ],
+        "roots": [
+            -0.20694497870536077,
+            -1.0040939823336001
+        ]
+    },
+    {
+        "coefficients": [
+            882,
+            173,
+            36
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            430,
+            19,
+            802
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            331,
+            381,
+            292
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            176,
+            176,
+            445
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            187,
+            41,
+            840
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            586,
+            915,
+            61
+        ],
+        "roots": [
+            -0.06978561627543159,
+            -1.4916478308235446
+        ]
+    },
+    {
+        "coefficients": [
+            881,
+            518,
+            796
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            153,
+            857,
+            570
+        ],
+        "roots": [
+            -0.7713260308164602,
+            -4.8299811587260235
+        ]
+    },
+    {
+        "coefficients": [
+            998,
+            192,
+            156
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            153,
+            367,
+            60
+        ],
+        "roots": [
+            -0.17647058823529413,
+            -2.2222222222222223
+        ]
+    },
+    {
+        "coefficients": [
+            346,
+            98,
+            279
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            682,
+            776,
+            733
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            981,
+            786,
+            358
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            324,
+            13,
+            308
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            272,
+            457,
+            448
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            971,
+            336,
+            854
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            569,
+            84,
+            495
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            354,
+            105,
+            887
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            995,
+            317,
+            971
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            359,
+            819,
+            472
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            951,
+            164,
+            838
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            26,
+            843,
+            181
+        ],
+        "roots": [
+            -0.21615035032333088,
+            -32.206926572753595
+        ]
+    },
+    {
+        "coefficients": [
+            169,
+            64,
+            374
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            22,
+            190,
+            371
+        ],
+        "roots": [
+            -2.9828699253119653,
+            -5.653493711051671
+        ]
+    },
+    {
+        "coefficients": [
+            934,
+            256,
+            136
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            600,
+            49,
+            578
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            484,
+            865,
+            727
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            503,
+            470,
+            514
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            770,
+            847,
+            379
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            123,
+            653,
+            702
+        ],
+        "roots": [
+            -1.497362168496725,
+            -3.811580920934169
+        ]
+    },
+    {
+        "coefficients": [
+            699,
+            106,
+            841
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            748,
+            556,
+            123
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            23,
+            623,
+            586
+        ],
+        "roots": [
+            -0.9757599901140788,
+            -26.111196531625055
+        ]
+    },
+    {
+        "coefficients": [
+            927,
+            586,
+            912
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            281,
+            289,
+            557
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            725,
+            63,
+            976
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            626,
+            257,
+            483
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            827,
+            615,
+            608
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            693,
+            264,
+            875
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            366,
+            888,
+            152
+        ],
+        "roots": [
+            -0.18532739274240467,
+            -2.2409021154543165
+        ]
+    },
+    {
+        "coefficients": [
+            206,
+            63,
+            412
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            662,
+            745,
+            555
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            230,
+            512,
+            429
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            123,
+            939,
+            319
+        ],
+        "roots": [
+            -0.3563576875172233,
+            -7.277788653946192
+        ]
+    },
+    {
+        "coefficients": [
+            132,
+            518,
+            147
+        ],
+        "roots": [
+            -0.3079497314640067,
+            -3.6162926927784174
+        ]
+    },
+    {
+        "coefficients": [
+            687,
+            164,
+            657
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            155,
+            661,
+            757
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            940,
+            441,
+            214
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            135,
+            863,
+            809
+        ],
+        "roots": [
+            -1.1411278309084032,
+            -5.25146476168419
+        ]
+    },
+    {
+        "coefficients": [
+            3,
+            284,
+            199
+        ],
+        "roots": [
+            -0.7059689309664444,
+            -93.96069773570021
+        ]
+    },
+    {
+        "coefficients": [
+            752,
+            6,
+            332
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            853,
+            414,
+            550
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            904,
+            47,
+            581
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            24,
+            973,
+            765
+        ],
+        "roots": [
+            -0.802097266814331,
+            -39.739569399852336
+        ]
+    },
+    {
+        "coefficients": [
+            55,
+            59,
+            956
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            59,
+            663,
+            985
+        ],
+        "roots": [
+            -1.7619296751628037,
+            -9.475358460430417
+        ]
+    },
+    {
+        "coefficients": [
+            107,
+            84,
+            159
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            590,
+            578,
+            99
+        ],
+        "roots": [
+            -0.22124659819145745,
+            -0.7584144187576951
+        ]
+    },
+    {
+        "coefficients": [
+            549,
+            988,
+            666
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            508,
+            333,
+            797
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            301,
+            785,
+            284
+        ],
+        "roots": [
+            -0.43400984478544924,
+            -2.173963577141461
+        ]
+    },
+    {
+        "coefficients": [
+            997,
+            575,
+            872
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            991,
+            402,
+            194
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            577,
+            22,
+            903
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            226,
+            838,
+            630
+        ],
+        "roots": [
+            -1.0479799730188086,
+            -2.659984628751103
+        ]
+    },
+    {
+        "coefficients": [
+            112,
+            119,
+            263
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            535,
+            208,
+            865
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            650,
+            149,
+            184
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            923,
+            147,
+            708
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            250,
+            18,
+            158
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            710,
+            195,
+            871
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            208,
+            86,
+            542
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            523,
+            522,
+            956
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            514,
+            429,
+            551
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            778,
+            753,
+            429
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            506,
+            575,
+            665
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            662,
+            741,
+            333
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            998,
+            751,
+            430
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            186,
+            644,
+            368
+        ],
+        "roots": [
+            -0.7219755580772206,
+            -2.740390033320629
+        ]
+    },
+    {
+        "coefficients": [
+            216,
+            202,
+            415
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            892,
+            321,
+            363
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            626,
+            322,
+            635
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            124,
+            325,
+            441
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            421,
+            335,
+            133
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            432,
+            113,
+            390
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            598,
+            714,
+            194
+        ],
+        "roots": [
+            -0.41815399576492013,
+            -0.7758259373454478
+        ]
+    },
+    {
+        "coefficients": [
+            764,
+            561,
+            98
+        ],
+        "roots": [
+            -0.2863730103592188,
+            -0.44792018335805867
+        ]
+    },
+    {
+        "coefficients": [
+            384,
+            536,
+            365
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            853,
+            915,
+            723
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            228,
+            293,
+            227
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            819,
+            50,
+            49
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            164,
+            757,
+            402
+        ],
+        "roots": [
+            -0.6122538840747705,
+            -4.003599774461815
+        ]
+    },
+    {
+        "coefficients": [
+            729,
+            816,
+            446
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            223,
+            340,
+            996
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            516,
+            744,
+            346
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            670,
+            452,
+            449
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            781,
+            952,
+            468
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            491,
+            815,
+            68
+        ],
+        "roots": [
+            -0.0881129729263546,
+            -1.5717648274809772
+        ]
+    },
+    {
+        "coefficients": [
+            94,
+            297,
+            660
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            107,
+            81,
+            203
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            824,
+            120,
+            347
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            737,
+            113,
+            922
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            694,
+            300,
+            963
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            181,
+            986,
+            212
+        ],
+        "roots": [
+            -0.22424075986584513,
+            -5.223273052288851
+        ]
+    },
+    {
+        "coefficients": [
+            267,
+            825,
+            407
+        ],
+        "roots": [
+            -0.6162313575312546,
+            -2.4736562829181836
+        ]
+    },
+    {
+        "coefficients": [
+            507,
+            630,
+            241
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            739,
+            42,
+            674
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            820,
+            748,
+            517
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            521,
+            540,
+            194
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            178,
+            755,
+            736
+        ],
+        "roots": [
+            -1.5183713864037767,
+            -2.7232016473040885
+        ]
+    },
+    {
+        "coefficients": [
+            24,
+            180,
+            99
+        ],
+        "roots": [
+            -0.597619946770377,
+            -6.902380053229623
+        ]
+    },
+    {
+        "coefficients": [
+            956,
+            276,
+            338
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            911,
+            425,
+            581
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            749,
+            270,
+            744
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            794,
+            114,
+            777
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            998,
+            712,
+            62
+        ],
+        "roots": [
+            -0.10152678848735155,
+            -0.6119000652200632
+        ]
+    },
+    {
+        "coefficients": [
+            696,
+            664,
+            191
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            303,
+            845,
+            537
+        ],
+        "roots": [
+            -0.9796067491947966,
+            -1.8091721286929923
+        ]
+    },
+    {
+        "coefficients": [
+            253,
+            117,
+            580
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            38,
+            47,
+            85
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            776,
+            79,
+            666
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            732,
+            613,
+            103
+        ],
+        "roots": [
+            -0.23267128778709706,
+            -0.604760406201974
+        ]
+    },
+    {
+        "coefficients": [
+            697,
+            125,
+            339
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            352,
+            90,
+            469
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            891,
+            851,
+            118
+        ],
+        "roots": [
+            -0.16832572646055075,
+            -0.7867808953127376
+        ]
+    },
+    {
+        "coefficients": [
+            308,
+            505,
+            469
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            441,
+            646,
+            317
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            355,
+            784,
+            558
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            649,
+            617,
+            744
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            357,
+            194,
+            826
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            941,
+            513,
+            916
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            341,
+            156,
+            265
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            266,
+            79,
+            435
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            974,
+            780,
+            706
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            328,
+            369,
+            975
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            596,
+            199,
+            962
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            947,
+            68,
+            565
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            174,
+            468,
+            107
+        ],
+        "roots": [
+            -0.2522990017353343,
+            -2.4373561706784588
+        ]
+    },
+    {
+        "coefficients": [
+            85,
+            519,
+            676
+        ],
+        "roots": [
+            -1.8835359214289362,
+            -4.22234643151224
+        ]
+    },
+    {
+        "coefficients": [
+            977,
+            86,
+            779
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            433,
+            77,
+            142
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            933,
+            276,
+            697
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            87,
+            22,
+            114
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            652,
+            245,
+            27
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            574,
+            693,
+            947
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            557,
+            300,
+            898
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            620,
+            581,
+            940
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            502,
+            665,
+            110
+        ],
+        "roots": [
+            -0.19375182661496346,
+            -1.13094936860416
+        ]
+    },
+    {
+        "coefficients": [
+            499,
+            415,
+            157
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            947,
+            131,
+            537
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            844,
+            973,
+            626
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            353,
+            678,
+            791
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            174,
+            55,
+            906
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            629,
+            845,
+            205
+        ],
+        "roots": [
+            -0.31776858315274603,
+            -1.0256336426024208
+        ]
+    },
+    {
+        "coefficients": [
+            984,
+            386,
+            458
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            533,
+            43,
+            533
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            580,
+            759,
+            508
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            513,
+            376,
+            247
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            835,
+            662,
+            374
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            935,
+            167,
+            912
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            209,
+            486,
+            593
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            114,
+            227,
+            613
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            740,
+            483,
+            36
+        ],
+        "roots": [
+            -0.08581745378137365,
+            -0.566885248921329
+        ]
+    },
+    {
+        "coefficients": [
+            510,
+            192,
+            962
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            265,
+            520,
+            762
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            222,
+            296,
+            786
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            228,
+            2,
+            215
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            142,
+            899,
+            487
+        ],
+        "roots": [
+            -0.5982438072443662,
+            -5.732742108248591
+        ]
+    },
+    {
+        "coefficients": [
+            345,
+            946,
+            700
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            731,
+            761,
+            308
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            903,
+            263,
+            385
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            924,
+            661,
+            350
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            740,
+            650,
+            144
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            629,
+            372,
+            690
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            157,
+            105,
+            176
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            86,
+            377,
+            830
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            311,
+            590,
+            274
+        ],
+        "roots": [
+            -0.8117175380646096,
+            -1.0853885712601492
+        ]
+    },
+    {
+        "coefficients": [
+            28,
+            163,
+            981
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            903,
+            386,
+            898
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            219,
+            792,
+            200
+        ],
+        "roots": [
+            -0.2731574246495108,
+            -3.3432809315148724
+        ]
+    },
+    {
+        "coefficients": [
+            321,
+            995,
+            117
+        ],
+        "roots": [
+            -0.12242307364457021,
+            -2.977265399875679
+        ]
+    },
+    {
+        "coefficients": [
+            797,
+            132,
+            205
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            568,
+            236,
+            980
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            638,
+            758,
+            336
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            258,
+            659,
+            199
+        ],
+        "roots": [
+            -0.3499059412260444,
+            -2.2043576246654286
+        ]
+    },
+    {
+        "coefficients": [
+            409,
+            891,
+            852
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            137,
+            130,
+            555
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            656,
+            275,
+            52
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            166,
+            651,
+            676
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            80,
+            20,
+            509
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            278,
+            262,
+            871
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            999,
+            976,
+            7
+        ],
+        "roots": [
+            -0.007225570346272641,
+            -0.9697514066307042
+        ]
+    },
+    {
+        "coefficients": [
+            732,
+            551,
+            151
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            495,
+            283,
+            419
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            359,
+            140,
+            914
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            802,
+            419,
+            512
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            538,
+            431,
+            995
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            947,
+            846,
+            489
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            142,
+            313,
+            75
+        ],
+        "roots": [
+            -0.2735697763585881,
+            -1.9306555757540877
+        ]
+    },
+    {
+        "coefficients": [
+            811,
+            660,
+            787
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            365,
+            183,
+            176
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            986,
+            938,
+            604
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            196,
+            307,
+            336
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            403,
+            809,
+            960
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            950,
+            776,
+            659
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            919,
+            878,
+            297
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            140,
+            253,
+            704
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            552,
+            244,
+            642
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            75,
+            920,
+            533
+        ],
+        "roots": [
+            -0.6096469636060374,
+            -11.657019703060628
+        ]
+    },
+    {
+        "coefficients": [
+            937,
+            398,
+            45
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            716,
+            939,
+            183
+        ],
+        "roots": [
+            -0.23812557221550731,
+            -1.073326941750973
+        ]
+    },
+    {
+        "coefficients": [
+            76,
+            174,
+            241
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            161,
+            638,
+            58
+        ],
+        "roots": [
+            -0.09309619291994709,
+            -3.869636726334711
+        ]
+    },
+    {
+        "coefficients": [
+            157,
+            671,
+            62
+        ],
+        "roots": [
+            -0.09448838232475835,
+            -4.179396967993713
+        ]
+    },
+    {
+        "coefficients": [
+            72,
+            430,
+            837
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            138,
+            970,
+            80
+        ],
+        "roots": [
+            -0.08346533164848695,
+            -6.945520175597889
+        ]
+    },
+    {
+        "coefficients": [
+            94,
+            892,
+            22
+        ],
+        "roots": [
+            -0.02472811557374898,
+            -9.46463358655391
+        ]
+    },
+    {
+        "coefficients": [
+            96,
+            813,
+            850
+        ],
+        "roots": [
+            -1.2217739686720328,
+            -7.246976031327968
+        ]
+    },
+    {
+        "coefficients": [
+            447,
+            631,
+            261
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            11,
+            96,
+            526
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            180,
+            106,
+            239
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            882,
+            286,
+            787
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            461,
+            939,
+            306
+        ],
+        "roots": [
+            -0.4073392344280557,
+            -1.6295371213203174
+        ]
+    },
+    {
+        "coefficients": [
+            430,
+            976,
+            337
+        ],
+        "roots": [
+            -0.42478504482958535,
+            -1.8449823970308799
+        ]
+    },
+    {
+        "coefficients": [
+            394,
+            590,
+            924
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            308,
+            594,
+            153
+        ],
+        "roots": [
+            -0.3061871714957583,
+            -1.6223842570756701
+        ]
+    },
+    {
+        "coefficients": [
+            778,
+            874,
+            151
+        ],
+        "roots": [
+            -0.21324905497902885,
+            -0.9101442612163438
+        ]
+    },
+    {
+        "coefficients": [
+            369,
+            583,
+            175
+        ],
+        "roots": [
+            -0.4029296983175593,
+            -1.1770161011404352
+        ]
+    },
+    {
+        "coefficients": [
+            806,
+            447,
+            329
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            200,
+            637,
+            148
+        ],
+        "roots": [
+            -0.2523297682756865,
+            -2.9326702317243134
+        ]
+    },
+    {
+        "coefficients": [
+            527,
+            785,
+            512
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            373,
+            751,
+            389
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            936,
+            459,
+            569
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            771,
+            978,
+            270
+        ],
+        "roots": [
+            -0.4060584138304163,
+            -0.8624240764419573
+        ]
+    },
+    {
+        "coefficients": [
+            137,
+            28,
+            797
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            133,
+            964,
+            51
+        ],
+        "roots": [
+            -0.05329646078146616,
+            -7.194823839970413
+        ]
+    },
+    {
+        "coefficients": [
+            54,
+            226,
+            356
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            737,
+            820,
+            286
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            440,
+            2,
+            11
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            47,
+            208,
+            725
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            849,
+            15,
+            201
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            668,
+            458,
+            653
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            968,
+            88,
+            984
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            600,
+            996,
+            569
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            282,
+            14,
+            61
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            388,
+            560,
+            265
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            949,
+            245,
+            355
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            213,
+            60,
+            378
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            509,
+            140,
+            684
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            186,
+            472,
+            358
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            878,
+            282,
+            904
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            881,
+            697,
+            679
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            440,
+            903,
+            760
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            366,
+            427,
+            320
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            936,
+            907,
+            459
+        ],
+        "roots": null
+    },
+    {
+        "coefficients": [
+            950,
+            787,
+            343
+        ],
+        "roots": null
+    }
+]
