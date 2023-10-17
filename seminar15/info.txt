@@ -1,0 +1,5 @@
+DirClass(name='test_dir', is_directory='True', parent_directory='seminar15')
+FileClass(name='info', extension='txt', is_directory='False', parent_directory='seminar15')
+FileClass(name='task', extension='py', is_directory='False', parent_directory='seminar15')
+FileClass(name='test', extension='py', is_directory='False', parent_directory='test_dir')
+FileClass(name='test_file', extension='txt', is_directory='False', parent_directory='test_dir')
